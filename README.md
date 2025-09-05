@@ -1,6 +1,3 @@
-# Full-Section-Chloride-Ingress-Simulation-Module-for-Bridges-in-Cold-and-Dry-Regions
-Numerical simulation module for predicting full-section chloride ingress in concrete bridge structures exposed to cold, dry climates with seasonal de-icing salt usage.
-
 # Full-Section Chloride Ingress Simulation Module for Bridges in Cold and Dry Regions
 
 This repository contains a simulation module for analyzing **chloride ingress in concrete bridge structures** located in inland continental climates characterized by cold winters, dry conditions, and seasonal de-icing salt usage.  
